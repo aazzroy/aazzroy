@@ -1,7 +1,13 @@
-# Gaurav Kumar
-**Integration Specialist** | Madhubani, Bihar, India
-📱 +91 ********** | 📧 aazzgit@gmail.com
-🌐 [Website](http://www.flopy.in) | 💼 [LinkedIn](https://www.linkedin.com/in/aazzroy) | 🐦 [Twitter](https://twitter.com/flopy)
+<h1 align="center">Gaurav Kumar</h1>
+<p align="center">
+  <strong>Integration Specialist</strong> | Madhubani, Bihar, India
+</p>
+<p align="center">
+  📱 +91 9431690433 | 📧 [aazsocial@gmail.com](mailto:aazsocial@gmail.com)
+</p>
+<p align="center">
+  🌐 [Website](http://www.flopy.in) | 💼 [LinkedIn](https://www.linkedin.com/in/aazzroy) | 🐦 [Twitter](https://twitter.com/flopy)
+</p>
 
 Experienced Integration Specialist proficient in C# and API management. Adept at crafting seamless API solutions, troubleshooting, and optimizing user experiences. Committed to continuous learning and emerging technology exploration. Proven track record of delivering successful integrations, data migration, and exceeding client expectations.
 
@@ -29,8 +35,8 @@ Experienced Integration Specialist proficient in C# and API management. Adept at
 
 ## Skills
 ### Programming Languages and Frameworks
-* Languages: C#, HTML, CSS, Bootstrap, PHP, SQL, JavaScript
-* Frameworks: .NET Core, MVC, ASP.NET, Bootstrap
+* **Languages:** C#, HTML, CSS, Bootstrap, PHP, SQL, JavaScript
+* **Frameworks:** .NET Core, MVC, ASP.NET, Bootstrap
 
 ### Soft Skills
 * Team Collaboration, Problem Solving, Analytical Thinking, Adaptability

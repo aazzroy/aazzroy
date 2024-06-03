@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
-<h3 align="center">Experienced Integration Specialist proficient in C# and API management. Adept at crafting seamless API solutions, troubleshooting, and optimizing user experiences. Committed to continuous learning and emerging technology exploration. Proven track record of delivering successful integrations, data migration, and exceeding client expectations.</h3>
+<h3 align="center">Experienced Ecommerce Integration Developer proficient in C# , PHP, SQL and API management. Adept at crafting seamless API solutions, troubleshooting, and optimizing user experiences. Committed to continuous learning and emerging technology exploration. Proven track record of delivering successful integrations, data migration, and exceeding client expectations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aazzroy&label=Profile%20views&color=0e75b6&style=flat" alt="aazzroy" /> </p>
 

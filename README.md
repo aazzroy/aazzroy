@@ -25,13 +25,13 @@ I am an **Ecommerce Integration Developer** with extensive experience in C#, PHP
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com)
-- 🐦 [Twitter](https://twitter.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/flopy/)
+- 🐦 [Twitter](https://twitter.com/rjflopy)
 - 📧 **aazzgit@gmail.com**
 
 ## 🌟 Projects & Articles
-- 👨‍💻 Explore all my projects at [flopy.in](https://flopy.in)
-- 📝 Read my articles on [flopy.in](https://flopy.in)
+- 👨‍💻 Explore all my projects at [flopy.in](https://www.linkedin.com/in/flopy/)
+- 📝 Read my articles on [flopy.in]([https://flopy.in](https://www.linkedin.com/in/flopy/))
 - 📄 Learn more about my experiences on [flopy.in](https://flopy.in)
 
 ## 📊 GitHub Stats

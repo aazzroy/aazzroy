@@ -32,7 +32,7 @@ I am an **Ecommerce Integration Developer** with extensive experience in C#, PHP
 ## 🌟 Projects & Articles
 - 👨‍💻 Explore all my projects at [flopy.in](https://www.linkedin.com/in/flopy/)
 - 📝 Read my articles on [flopy.in]([https://flopy.in](https://www.linkedin.com/in/flopy/))
-- 📄 Learn more about my experiences on [flopy.in](https://flopy.in)
+- 📄 Learn more about my experiences on [flopy](https://flopy.in)
 
 ## 📊 GitHub Stats
 

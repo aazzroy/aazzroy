@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Gaurav Kumar
 
 ## 🌐 About Me
-I am a dedicated software developer with expertise in PHP, Python, C#, and the .NET Framework, alongside experience working with platforms such as Cinchy, VTEX, Opus1, and Channel Engine. My passion for delivering innovative solutions is matched by my commitment to continuously expanding my technical skill set and staying at the forefront of industry trends.
+I am a software developer with expertise in PHP, Python, C#, and the .NET Framework, alongside experience working with platforms such as Cinchy, VTEX, Opus1, and Channel Engine. My passion for delivering innovative solutions is matched by my commitment to continuously expanding my technical skill set and staying at the forefront of industry trends.
 
 ## 🛠️ Skills & Tools
 

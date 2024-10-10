@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Gaurav Kumar
 
 ## 🌐 About Me
-I am an **Ecommerce Integration Developer** with extensive experience in C#, PHP, SQL, and API management. I specialize in creating seamless API solutions, troubleshooting issues, and optimizing user experiences. My commitment to continuous learning and exploring emerging technologies has enabled me to deliver successful integrations and exceed client expectations consistently.
+I am a dedicated **software developer with expertise in PHP, Python, C#, and the .NET Framework, alongside experience working with platforms such as Cinchy, VTEX, Opus1, and Channel Engine. My passion for delivering innovative solutions is matched by my commitment to continuously expanding my technical skill set and staying at the forefront of industry trends.
 
 ## 🛠️ Skills & Tools
 

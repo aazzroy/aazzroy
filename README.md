@@ -31,8 +31,8 @@ I am a software developer with expertise in PHP, Python, C#, and the .NET Framew
 
 ## 🌟 Projects & Articles
 - 👨‍💻 Explore all my projects at [flopy.in](https://www.linkedin.com/in/flopy/)
-- 📝 Read my articles on [flopy.in]([https://flopy.in](https://www.linkedin.com/in/flopy/))
-- 📄 Learn more about my experiences on [flopy](https://flopy.in)
+- 📝 Read my articles on [thegaurav.in]([thegaurav.in)
+- 📄 Learn more about my experiences on [flopy](thegaurav.in)
 
 ## 📊 GitHub Stats
 

@@ -40,27 +40,5 @@ I am a software developer with expertise in PHP, Python, C#, and the .NET Framew
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aazzroy&show_icons=true&locale=en&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aazzroy&theme=radical)
 
-## 🚀 Featured Technologies
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" width="40" height="40"/>
-  </a>
-</div>
 
-<!-- Add more content or sections as needed -->
 

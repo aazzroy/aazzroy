@@ -34,11 +34,6 @@ I am a software developer with expertise in PHP, Python, C#, and the .NET Framew
 - 📝 Read my articles on [thegaurav.in]([thegaurav.in)
 - 📄 Learn more about my experiences on [flopy](thegaurav.in)
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aazzroy&show_icons=true&locale=en&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aazzroy&show_icons=true&locale=en&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aazzroy&theme=radical)
 
 
 

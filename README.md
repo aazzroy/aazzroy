@@ -30,9 +30,9 @@ I am a software developer with expertise in PHP, Python, C#, and the .NET Framew
 - 📧 **aazzgit@gmail.com**
 
 ## 🌟 Projects & Articles
-- 👨‍💻 Explore all my projects at [flopy.in](https://www.linkedin.com/in/flopy/)
+- 👨‍💻 Explore all my projects at [aflopy](https://www.linkedin.com/in/flopy/)
 - 📝 Read my articles on [thegaurav.in]([thegaurav.in)
-- 📄 Learn more about my experiences on [flopy](thegaurav.in)
+- 📄 Learn more about my experiences on [aflopy](aflopy.com)
 
 
 
